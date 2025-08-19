@@ -77,7 +77,11 @@
         <br>
         "Happy Coding👨‍💻"
     </p>
+    <p align="center">
+      ✨ **Life is a blend of code and flavor!** ✨
+    </p>
 </samp>
+
 <!-- 联系方式 -->
 <!-- <details>
   <summary>联系方式</summary>
